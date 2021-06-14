@@ -1,0 +1,5 @@
+Jose,Cansecos,21-08-1970,3292.02
+Julio,Gomez,13-05-1996,541.03
+Alfonso,Parras,12-08-2013,3201.05
+Gabriel,Martinez,01-07-1971,250
+Maria,Torres,04-10-1990,5689.2
